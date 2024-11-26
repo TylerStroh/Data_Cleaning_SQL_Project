@@ -244,7 +244,7 @@ When running the query originally I noticed way more drastic findings so I added
 
 This is all the analysis done, this project was primarily focused on the cleaning side of Data Analysis I just wanted a few examples to make sure the data was cleaned.
 
-If you are interested in a project focused on SQL analysis [Check out my work here](Salary-Dashboard-Project)
+If you are interested in a project focused on SQL analysis I have another project on my GitHub focused on that!
 
 ## What I Learned
 
